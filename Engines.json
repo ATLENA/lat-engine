@@ -1,0 +1,65 @@
+{
+  "engines" : 
+  [
+    {
+      "type" : "tomcat",
+      "engineType" : "runtime",
+      "name" : "tomcat-9.0.62.A.RELEASE.tar.gz",
+      "version" : "9.0.62.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "tomcat",
+      "engineType" : "template",
+      "name" : "tomcat-9.0.A.RELEASE.tar.gz",
+      "version" : "9.0.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "apache",
+      "engineType" : "runtime",
+      "name" : "apache-2.4.53.A.RELEASE.tar.gz",
+      "version" : "2.4.53.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" :  "apache",
+      "engineType" : "template",
+      "name" : "apache-2.4.A.RELEASE.tar.gz",
+      "version" : "2.4.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "comet",
+      "engineType" : "runtime",
+      "name" : "comet-1.0.0.A.RELEASE.tar.gz",
+      "version" : "1.0.0.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "comet",
+      "engineType" : "template",
+      "name" : "comet-1.0.A.RELEASE.tar.gz",
+      "version" : "1.0.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "nginx",
+      "engineType" : "runtime",
+      "name" : "nginx-1.23.1.A.RELEASE.tar.gz",
+      "version" : "1.23.1.A.RELEAS",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "nginx",
+      "engineType" : "template",
+      "name" : "nginx-1.23.A.RELEASE.tar.gz",
+      "version" : "1.23.A.RELEASE",
+      "expireYN" : "N"
+    }
+  ]
+}
+
+
+
+
