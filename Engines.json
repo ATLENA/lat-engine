@@ -56,6 +56,41 @@
       "name" : "nginx-1.23.A.RELEASE.tar.gz",
       "version" : "1.23.A.RELEASE",
       "expireYN" : "N"
+    },
+    {
+      "type" : "apache",
+      "engineType" : "runtime",
+      "name" : "apache-2.4.53.A.RELEASE-alpine3.18.tar.gz",
+      "version" : "2.4.53.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "apache",
+      "engineType" : "runtime",
+      "name" : "apache-2.4.53.A.RELEASE-amazonlinux2.tar.gz",
+      "version" : "2.4.53.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "apache",
+      "engineType" : "runtime",
+      "name" : "apache-2.4.53.A.RELEASE-centos7.tar.gz",
+      "version" : "2.4.53.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "apache",
+      "engineType" : "runtime",
+      "name" : "apache-2.4.53.A.RELEASE-rocky8.tar.gz",
+      "version" : "2.4.53.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "apache",
+      "engineType" : "runtime",
+      "name" : "apache-2.4.53.A.RELEASE-ubuntu1804.tar.gz",
+      "version" : "2.4.53.A.RELEASE",
+      "expireYN" : "N"
     }
   ]
 }
