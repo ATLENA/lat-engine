@@ -89,7 +89,7 @@
       "type" : "apache",
       "engineType" : "runtime",
       "name" : "apache-2.4.53.A.RELEASE-ubuntu1804.tar.gz",
-      "version" : "2.4.53.A.RELEASE",
+      "version" : "2.4.53.A.RELEASE-ubuntu1804",
       "expireYN" : "N"
     }
   ]
