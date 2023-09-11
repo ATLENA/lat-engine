@@ -91,7 +91,22 @@
       "name" : "apache-2.4.53.A.RELEASE-ubuntu1804.tar.gz",
       "version" : "2.4.53.A.RELEASE-ubuntu1804",
       "expireYN" : "N"
+    },
+    {
+      "type" : "redis",
+      "engineType" : "runtime",
+      "name" : "redis-7.2.0.A.RELEASE.tar.gz",
+      "version" : "7.2.0.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "redis",
+      "engineType" : "template",
+      "name" : "redis-7.2.A.RELEASE.tar.gz",
+      "version" : "7.2.A.RELEASE",
+      "expireYN" : "N"
     }
+    
   ]
 }
 
