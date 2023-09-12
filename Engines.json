@@ -61,28 +61,28 @@
       "type" : "apache",
       "engineType" : "runtime",
       "name" : "apache-2.4.53.A.RELEASE-alpine3.18.tar.gz",
-      "version" : "2.4.53.A.RELEASE",
+      "version" : "2.4.53.A.RELEASE-alpine3.18",
       "expireYN" : "N"
     },
     {
       "type" : "apache",
       "engineType" : "runtime",
       "name" : "apache-2.4.53.A.RELEASE-amazonlinux2.tar.gz",
-      "version" : "2.4.53.A.RELEASE",
+      "version" : "2.4.53.A.RELEASE-amazonlinux2",
       "expireYN" : "N"
     },
     {
       "type" : "apache",
       "engineType" : "runtime",
       "name" : "apache-2.4.53.A.RELEASE-centos7.tar.gz",
-      "version" : "2.4.53.A.RELEASE",
+      "version" : "2.4.53.A.RELEASE-centos7",
       "expireYN" : "N"
     },
     {
       "type" : "apache",
       "engineType" : "runtime",
       "name" : "apache-2.4.53.A.RELEASE-rocky8.tar.gz",
-      "version" : "2.4.53.A.RELEASE",
+      "version" : "2.4.53.A.RELEASE-rocky8",
       "expireYN" : "N"
     },
     {
