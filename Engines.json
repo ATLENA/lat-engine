@@ -105,7 +105,13 @@
       "name" : "redis-7.2.A.RELEASE.tar.gz",
       "version" : "7.2.A.RELEASE",
       "expireYN" : "N"
-    }
+    },{
+      "type" : "redis",
+      "engineType" : "runtime",
+      "name" : "redis-7.2.1.A.RELEASE.tar.gz",
+      "version" : "7.2.1.A.RELEASE",
+      "expireYN" : "N"
+    },
     
   ]
 }
