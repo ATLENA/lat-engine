@@ -16,38 +16,38 @@
       "expireYN" : "N"
     },
     {
-      "type" : "apache",
+      "type" : "nginx",
       "engineType" : "runtime",
-      "name" : "apache-2.4.53.A.RELEASE.tar.gz",
-      "version" : "2.4.53.A.RELEASE",
-      "expireYN" : "N"
-    },
-    {
-      "type" :  "apache",
-      "engineType" : "template",
-      "name" : "apache-2.4.A.RELEASE.tar.gz",
-      "version" : "2.4.A.RELEASE",
-      "expireYN" : "N"
-    },
-    {
-      "type" : "comet",
-      "engineType" : "runtime",
-      "name" : "comet-1.0.0.A.RELEASE.tar.gz",
-      "version" : "1.0.0.A.RELEASE",
-      "expireYN" : "N"
-    },
-    {
-      "type" : "comet",
-      "engineType" : "template",
-      "name" : "comet-1.0.A.RELEASE.tar.gz",
-      "version" : "1.0.A.RELEASE",
+      "name" : "nginx-1.23.1.A.RELEASE-ubuntu1804.tar.gz",
+      "version" : "1.23.1.A.RELEASE-ubuntu1804",
       "expireYN" : "N"
     },
     {
       "type" : "nginx",
       "engineType" : "runtime",
-      "name" : "nginx-1.23.1.A.RELEASE.tar.gz",
-      "version" : "1.23.1.A.RELEAS",
+      "name" : "nginx-1.23.1.A.RELEASE-ubuntu2004.tar.gz",
+      "version" : "1.23.1.A.RELEASE-ubuntu2004",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "nginx",
+      "engineType" : "runtime",
+      "name" : "nginx-1.23.1.A.RELEASE-ubuntu2204.tar.gz",
+      "version" : "1.23.1.A.RELEASE-ubuntu2204",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "nginx",
+      "engineType" : "runtime",
+      "name" : "nginx-1.23.1.A.RELEASE-rocky8.tar.gz",
+      "version" : "1.23.1.A.RELEASE-rocky8",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "nginx",
+      "engineType" : "runtime",
+      "name" : "nginx-1.23.1.A.RELEASE-centos7.tar.gz",
+      "version" : "1.23.1.A.RELEASE-centos7",
       "expireYN" : "N"
     },
     {
@@ -55,6 +55,13 @@
       "engineType" : "template",
       "name" : "nginx-1.23.A.RELEASE.tar.gz",
       "version" : "1.23.A.RELEASE",
+      "expireYN" : "N"
+    },
+    {
+      "type" :  "apache",
+      "engineType" : "template",
+      "name" : "apache-2.4.A.RELEASE.tar.gz",
+      "version" : "2.4.A.RELEASE",
       "expireYN" : "N"
     },
     {
@@ -94,28 +101,46 @@
     },
     {
       "type" : "redis",
-      "engineType" : "runtime",
-      "name" : "redis-7.2.0.A.RELEASE.tar.gz",
-      "version" : "7.2.0.A.RELEASE",
-      "expireYN" : "N"
-    },
-    {
-      "type" : "redis",
       "engineType" : "template",
       "name" : "redis-7.2.A.RELEASE.tar.gz",
       "version" : "7.2.A.RELEASE",
       "expireYN" : "N"
-    },{
+    },
+    {
       "type" : "redis",
       "engineType" : "runtime",
-      "name" : "redis-7.2.1.A.RELEASE.tar.gz",
-      "version" : "7.2.1.A.RELEASE",
+      "name" : "redis-7.2.0.A.RELEASE-ubuntu1804.tar.gz",
+      "version" : "7.2.0.A.RELEASE-ubuntu1804",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "redis",
+      "engineType" : "runtime",
+      "name" : "redis-7.2.0.A.RELEASE-ubuntu2004.tar.gz",
+      "version" : "7.2.0.A.RELEASE-ubuntu2004",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "redis",
+      "engineType" : "runtime",
+      "name" : "redis-7.2.0.A.RELEASE-ubuntu2204.tar.gz",
+      "version" : "7.2.0.A.RELEASE-ubuntu2204",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "redis",
+      "engineType" : "runtime",
+      "name" : "redis-7.2.0.A.RELEASE-rocky8.tar.gz",
+      "version" : "7.2.0.A.RELEASE-rocky8",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "redis",
+      "engineType" : "runtime",
+      "name" : "redis-7.2.0.A.RELEASE-centos7.tar.gz",
+      "version" : "7.2.0.A.RELEASE-centos7",
       "expireYN" : "N"
     }
     
   ]
 }
-
-
-
-
