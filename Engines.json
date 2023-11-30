@@ -74,6 +74,13 @@
     {
       "type" : "apache",
       "engineType" : "runtime",
+      "name" : "apache-2.4.53.A.RELEASE-ubuntu2204.tar.gz",
+      "version" : "2.4.53.A.RELEASE-ubuntu2204",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "apache",
+      "engineType" : "runtime",
       "name" : "apache-2.4.53.A.RELEASE-alpine3.18.tar.gz",
       "version" : "2.4.53.A.RELEASE-alpine3.18",
       "expireYN" : "N"
