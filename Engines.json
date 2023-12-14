@@ -171,6 +171,13 @@
     },
     {
       "type" : "nginx",
+      "engineType" : "runtime",
+      "name" : "nginx-1.23.1-ubuntu1804-runtime.tar.gz",
+      "version" : "1.23.1-ubuntu1804",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "nginx",
       "engineType" : "template",
       "name" : "nginx-1.23.1-template.tar.gz",
       "version" : "1.23.1",
