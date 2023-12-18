@@ -116,50 +116,50 @@
     {
       "type" : "redis",
       "engineType" : "template",
-      "name" : "redis-7.2.A.RELEASE.tar.gz",
-      "version" : "7.2.A.RELEASE",
+      "name" : "redis-7.2.0-template.tar.gz",
+      "version" : "7.2.0",
       "expireYN" : "N"
     },
     {
       "type" : "redis",
       "engineType" : "runtime",
-      "name" : "redis-7.2.0.A.RELEASE-ubuntu1804.tar.gz",
-      "version" : "7.2.0.A.RELEASE-ubuntu1804",
+      "name" : "redis-7.2.0-ubuntu1804-runtime.tar.gz",
+      "version" : "7.2.0-ubuntu1804",
       "expireYN" : "N"
     },
     {
       "type" : "redis",
       "engineType" : "runtime",
-      "name" : "redis-7.2.0.A.RELEASE-ubuntu2004.tar.gz",
-      "version" : "7.2.0.A.RELEASE-ubuntu2004",
+      "name" : "redis-7.2.0-ubuntu2004-runtime.tar.gz",
+      "version" : "7.2.0-ubuntu2004",
       "expireYN" : "N"
     },
     {
       "type" : "redis",
       "engineType" : "runtime",
-      "name" : "redis-7.2.0.A.RELEASE-ubuntu2204.tar.gz",
-      "version" : "7.2.0.A.RELEASE-ubuntu2204",
+      "name" : "redis-7.2.0-ubuntu2204-runtime.tar.gz",
+      "version" : "7.2.0-ubuntu2204",
       "expireYN" : "N"
     },
     {
       "type" : "redis",
       "engineType" : "runtime",
-      "name" : "redis-7.2.0.A.RELEASE-amazonlinux2.tar.gz",
-      "version" : "7.2.0.A.RELEASE-amazonlinux2",
+      "name" : "redis-7.2.0-amazonlinux2-runtime.tar.gz",
+      "version" : "7.2.0-amazonlinux2",
       "expireYN" : "N"
     },
     {
       "type" : "redis",
       "engineType" : "runtime",
-      "name" : "redis-7.2.0.A.RELEASE-rocky8.tar.gz",
-      "version" : "7.2.0.A.RELEASE-rocky8",
+      "name" : "redis-7.2.0-rocky8-runtime.tar.gz",
+      "version" : "7.2.0-rocky8",
       "expireYN" : "N"
     },
     {
       "type" : "redis",
       "engineType" : "runtime",
-      "name" : "redis-7.2.0.A.RELEASE-centos7.tar.gz",
-      "version" : "7.2.0.A.RELEASE-centos7",
+      "name" : "redis-7.2.0-centos7-runtime.tar.gz",
+      "version" : "7.2.0-centos7",
       "expireYN" : "N"
     },
     {
