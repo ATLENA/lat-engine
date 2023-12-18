@@ -4,113 +4,113 @@
     {
       "type" : "tomcat",
       "engineType" : "runtime",
-      "name" : "tomcat-9.0.62.A.RELEASE.tar.gz",
-      "version" : "9.0.62.A.RELEASE",
+      "name" : "tomcat-9.0.62-runtime.tar.gz",
+      "version" : "9.0.62",
       "expireYN" : "N"
     },
     {
       "type" : "tomcat",
       "engineType" : "template",
-      "name" : "tomcat-9.0.A.RELEASE.tar.gz",
-      "version" : "9.0.A.RELEASE",
+      "name" : "tomcat-9.0.62-template.tar.gz",
+      "version" : "9.0.62",
       "expireYN" : "N"
     },
     {
       "type" : "nginx",
       "engineType" : "runtime",
-      "name" : "nginx-1.23.1.A.RELEASE-amazonlinux2.tar.gz",
-      "version" : "1.23.1.A.RELEASE-amazonlinux2",
+      "name" : "nginx-1.23.1-amazonlinux2-runtime.tar.gz",
+      "version" : "1.23.1-amazonlinux2",
       "expireYN" : "N"
     },
     {
       "type" : "nginx",
       "engineType" : "runtime",
-      "name" : "nginx-1.23.1.A.RELEASE-ubuntu1804.tar.gz",
-      "version" : "1.23.1.A.RELEASE-ubuntu1804",
+      "name" : "nginx-1.23.1-ubuntu1804-runtime.tar.gz",
+      "version" : "1.23.1-ubuntu1804",
       "expireYN" : "N"
     },
     {
       "type" : "nginx",
       "engineType" : "runtime",
-      "name" : "nginx-1.23.1.A.RELEASE-ubuntu2004.tar.gz",
-      "version" : "1.23.1.A.RELEASE-ubuntu2004",
+      "name" : "nginx-1.23.1-ubuntu2004-runtime.tar.gz",
+      "version" : "1.23.1-ubuntu2004",
       "expireYN" : "N"
     },
     {
       "type" : "nginx",
       "engineType" : "runtime",
-      "name" : "nginx-1.23.1.A.RELEASE-ubuntu2204.tar.gz",
-      "version" : "1.23.1.A.RELEASE-ubuntu2204",
+      "name" : "nginx-1.23.1-ubuntu2204-runtime.tar.gz",
+      "version" : "1.23.1-ubuntu2204",
       "expireYN" : "N"
     },
     {
       "type" : "nginx",
       "engineType" : "runtime",
-      "name" : "nginx-1.23.1.A.RELEASE-rocky8.tar.gz",
-      "version" : "1.23.1.A.RELEASE-rocky8",
+      "name" : "nginx-1.23.1-rocky8-runtime.tar.gz",
+      "version" : "1.23.1-rocky8",
       "expireYN" : "N"
     },
     {
       "type" : "nginx",
       "engineType" : "runtime",
-      "name" : "nginx-1.23.1.A.RELEASE-centos7.tar.gz",
-      "version" : "1.23.1.A.RELEASE-centos7",
+      "name" : "nginx-1.23.1-centos7-runtime.tar.gz",
+      "version" : "1.23.1-centos7",
       "expireYN" : "N"
     },
     {
       "type" : "nginx",
       "engineType" : "template",
-      "name" : "nginx-1.23.A.RELEASE.tar.gz",
-      "version" : "1.23.A.RELEASE",
+      "name" : "nginx-1.23.1-template.tar.gz",
+      "version" : "1.23.1",
       "expireYN" : "N"
     },
     {
       "type" :  "apache",
       "engineType" : "template",
-      "name" : "apache-2.4.A.RELEASE.tar.gz",
-      "version" : "2.4.A.RELEASE",
+      "name" : "apache-2.4.53-template.tar.gz",
+      "version" : "2.4.53",
       "expireYN" : "N"
     },
     {
       "type" : "apache",
       "engineType" : "runtime",
-      "name" : "apache-2.4.53.A.RELEASE-ubuntu2204.tar.gz",
-      "version" : "2.4.53.A.RELEASE-ubuntu2204",
+      "name" : "apache-2.4.53-ubuntu1804-runtime.tar.gz",
+      "version" : "2.4.53-ubuntu1804",
       "expireYN" : "N"
     },
     {
       "type" : "apache",
       "engineType" : "runtime",
-      "name" : "apache-2.4.53.A.RELEASE-alpine3.18.tar.gz",
-      "version" : "2.4.53.A.RELEASE-alpine3.18",
+      "name" : "apache-2.4.53-ubuntu2204-runtime.tar.gz",
+      "version" : "2.4.53-ubuntu2204",
       "expireYN" : "N"
     },
     {
       "type" : "apache",
       "engineType" : "runtime",
-      "name" : "apache-2.4.53.A.RELEASE-amazonlinux2.tar.gz",
-      "version" : "2.4.53.A.RELEASE-amazonlinux2",
+      "name" : "apache-2.4.53-alpine3.18-runtime.tar.gz",
+      "version" : "2.4.53-alpine3.18",
       "expireYN" : "N"
     },
     {
       "type" : "apache",
       "engineType" : "runtime",
-      "name" : "apache-2.4.53.A.RELEASE-centos7.tar.gz",
-      "version" : "2.4.53.A.RELEASE-centos7",
+      "name" : apache-2.4.53-amazonlinux2-runtime.tar.gz",
+      "version" : "2.4.53-amazonlinux2",
       "expireYN" : "N"
     },
     {
       "type" : "apache",
       "engineType" : "runtime",
-      "name" : "apache-2.4.53.A.RELEASE-rocky8.tar.gz",
-      "version" : "2.4.53.A.RELEASE-rocky8",
+      "name" : "apache-2.4.53-centos7-runtime.tar.gz",
+      "version" : "2.4.53-centos7",
       "expireYN" : "N"
     },
     {
       "type" : "apache",
       "engineType" : "runtime",
-      "name" : "apache-2.4.53.A.RELEASE-ubuntu1804.tar.gz",
-      "version" : "2.4.53.A.RELEASE-ubuntu1804",
+      "name" : "apache-2.4.53-rocky8-runtime.tar.gz",
+      "version" : "2.4.53-rocky8",
       "expireYN" : "N"
     },
     {
@@ -161,29 +161,6 @@
       "name" : "redis-7.2.0-centos7-runtime.tar.gz",
       "version" : "7.2.0-centos7",
       "expireYN" : "N"
-    },
-    {
-      "type" : "nginx",
-      "engineType" : "runtime",
-      "name" : "nginx-1.23.1-centos7-runtime.tar.gz",
-      "version" : "1.23.1-centos7",
-      "expireYN" : "N"
-    },
-    {
-      "type" : "nginx",
-      "engineType" : "runtime",
-      "name" : "nginx-1.23.1-ubuntu1804-runtime.tar.gz",
-      "version" : "1.23.1-ubuntu1804",
-      "expireYN" : "N"
-    },
-    {
-      "type" : "nginx",
-      "engineType" : "template",
-      "name" : "nginx-1.23.1-template.tar.gz",
-      "version" : "1.23.1",
-      "expireYN" : "N"
     }
-    
-    
   ]
 }
