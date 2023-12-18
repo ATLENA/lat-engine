@@ -95,7 +95,7 @@
     {
       "type" : "apache",
       "engineType" : "runtime",
-      "name" : apache-2.4.53-amazonlinux2-runtime.tar.gz",
+      "name" : "apache-2.4.53-amazonlinux2-runtime.tar.gz",
       "version" : "2.4.53-amazonlinux2",
       "expireYN" : "N"
     },
