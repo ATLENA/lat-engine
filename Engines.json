@@ -16,6 +16,20 @@
       "expireYN" : "N"
     },
     {
+      "type" : "tomcat",
+      "engineType" : "runtime",
+      "name" : "tomcat-9.0.87-runtime.tar.gz",
+      "version" : "9.0.87",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "tomcat",
+      "engineType" : "template",
+      "name" : "tomcat-9.0.87-template.tar.gz",
+      "version" : "9.0.87",
+      "expireYN" : "N"
+    },
+    {
       "type" : "nginx",
       "engineType" : "runtime",
       "name" : "nginx-1.23.1-amazonlinux2-runtime.tar.gz",
