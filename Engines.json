@@ -95,13 +95,6 @@
     {
       "type" : "apache",
       "engineType" : "runtime",
-      "name" : "apache-2.4.63-ubuntu1804-runtime.tar.gz",
-      "version" : "2.4.63-ubuntu1804",
-      "expireYN" : "N"
-    },
-    {
-      "type" : "apache",
-      "engineType" : "runtime",
       "name" : "apache-2.4.53-ubuntu2204-runtime.tar.gz",
       "version" : "2.4.53-ubuntu2204",
       "expireYN" : "N"
@@ -132,6 +125,13 @@
       "engineType" : "runtime",
       "name" : "apache-2.4.53-rocky8-runtime.tar.gz",
       "version" : "2.4.53-rocky8",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "apache",
+      "engineType" : "runtime",
+      "name" : "apache-2.4.63-ubuntu1804-runtime.tar.gz",
+      "version" : "2.4.63-ubuntu1804",
       "expireYN" : "N"
     },
     {
