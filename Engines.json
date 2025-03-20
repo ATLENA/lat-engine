@@ -51,6 +51,13 @@
       "expireYN" : "N"
     },
     {
+      "type" : "apache",
+      "engineType" : "runtime",
+      "name" : "apache-2.4.63-ubuntu1804-runtime.tar.gz",
+      "version" : "2.4.63-ubuntu1804",
+      "expireYN" : "N"
+    },
+    {
       "type" : "nginx",
       "engineType" : "runtime",
       "name" : "nginx-1.23.1-amazonlinux2-runtime.tar.gz",
