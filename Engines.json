@@ -25,6 +25,13 @@
     {
       "type" : "apache",
       "engineType" : "runtime",
+      "name" : "apache-2.4.63-ubuntu2404-runtime.tar.gz",
+      "version" : "2.4.63-ubuntu2404",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "apache",
+      "engineType" : "runtime",
       "name" : "apache-2.4.63-alpine3.18-runtime.tar.gz",
       "version" : "2.4.63-alpine3.18",
       "expireYN" : "N"
@@ -69,6 +76,13 @@
       "engineType" : "runtime",
       "name" : "nginx-1.23.1-ubuntu2204-runtime.tar.gz",
       "version" : "1.23.1-ubuntu2204",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "nginx",
+      "engineType" : "runtime",
+      "name" : "nginx-1.23.1-ubuntu2404-runtime.tar.gz",
+      "version" : "1.23.1-ubuntu2404",
       "expireYN" : "N"
     },
     {
@@ -146,6 +160,13 @@
       "engineType" : "runtime",
       "name" : "redis-7.2.0-ubuntu2204-runtime.tar.gz",
       "version" : "7.2.0-ubuntu2204",
+      "expireYN" : "N"
+    },
+    {
+      "type" : "redis",
+      "engineType" : "runtime",
+      "name" : "redis-7.2.0-ubuntu2404-runtime.tar.gz",
+      "version" : "7.2.0-ubuntu2404",
       "expireYN" : "N"
     },
     {
